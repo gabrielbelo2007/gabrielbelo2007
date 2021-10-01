@@ -6,7 +6,14 @@
 
 ## Talk to me.
 🎮 **Discord**: Zzuko#0148
-- Thanks for visiting.
 
-![image]({https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white})
 
+## Language and Tools:
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbelo2007&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbelo2007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
