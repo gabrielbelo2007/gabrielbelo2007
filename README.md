@@ -1,6 +1,6 @@
 ## ✌ Hello, I'm Gabriel Belo!
 
-- :computer: I'm an novice developer.
+- :computer: I'm a novice developer.
 - :books:Currently studying Python 3 at [Udemy](https://www.udemy.com) and learning to use Git/Github in [Curso em Vídeo](https://www.cursoemvideo.com).
 - :outbox_tray:**Upcoming courses**: JavaScript/Typescript, Html5/Css3, Games development.
 
