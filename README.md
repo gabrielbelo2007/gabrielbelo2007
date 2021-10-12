@@ -1,7 +1,7 @@
 ## ✌ Hello, I'm Gabriel Belo!
 
 - :computer: I'm a novice developer.
-- :books:**Currently**: studying Python 3 at [Udemy](https://www.udemy.com), learning to use Git/Github in [Curso em Vídeo](https://www.cursoemvideo.com) and GameMaker Studio2 at [Danki code](https://cursos.dankicode.com).
+- :books:**Currently**: studying Python 3 at [Udemy](https://www.udemy.com), learning to use Git/Github in [Curso em Vídeo](https://www.cursoemvideo.com) and GameMaker Studio2 at [None Class](https://noneclass.com.br).
 - :outbox_tray:**Upcoming courses**: JavaScript/Typescript, Html5/Css3, Games development.
 
 ## Talk to me.
