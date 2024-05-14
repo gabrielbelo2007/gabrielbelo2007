@@ -1,11 +1,12 @@
 ## ✌ Hello, I'm Gabriel Belo!
 
-- :computer: I'm a novice developer.
-- :books:**Currently**: studying Python 3, learning Git/Github and Algorithms.
-- :outbox_tray:**Upcoming courses**: JavaScript/Typescript, Html5/Css3.
+- :computer: I'm 17-year-old novice developer based in Recife, Brazil.
+- :books:**Currently**: Studying Python and Logic programming.
+- :outbox_tray:**Upcoming courses**: JavaScript/Typescript, Html/CSS.
+- Experience: 
 
 ## Talk to me.
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> Gabsszin#2116
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> gabsszin
 
 
 ## Language and Tools:
@@ -16,4 +17,4 @@
 <code><img height= "20"src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
-
+![gabrielbelo2007's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
