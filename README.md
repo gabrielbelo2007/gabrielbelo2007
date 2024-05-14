@@ -12,5 +12,5 @@
 [<img src="https://skillicons.dev/icons?i=gmail"/>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielbelo2007@gmail.com)
 [<img src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/whoisgaabss)
 
-
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbelo2007&show_icons=true&theme=radical)
 
