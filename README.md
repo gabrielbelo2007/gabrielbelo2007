@@ -12,9 +12,6 @@
 ## Language and Tools:
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+[![My Skills](https://skillicons.dev/icons?i=js,python,c)](https://skillicons.dev)
 
 ![gabrielbelo2007's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbelo2007&show_icons=true&theme=transparent)
