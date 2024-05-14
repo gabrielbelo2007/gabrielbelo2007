@@ -3,15 +3,14 @@
 - :computer: I'm 17-year-old novice developer based in Recife, Brazil.
 - :books:**Currently**: Studying Python and Logic programming.
 - :outbox_tray:**Upcoming courses**: JavaScript/Typescript, Html/CSS.
-- Experience: 
-
-## Talk to me.
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> gabsszin
-
+- ☑️ **Experience**: [OBI](https://drive.google.com/file/d/1OFmXTVeZVi7u2w2kMrv5a6IvXO4aL5bw/view?usp=sharing), [OPEI](https://drive.google.com/file/d/15PIfYE0ja-pUKyuejb8FZhNHxUNrlRq7/view?usp=sharing), [NLW Expert](https://drive.google.com/file/d/1ezrr2CNpZnStzQNagp_yJIfg-XSSujv7/view?usp=sharing) e [PET Informática](https://drive.google.com/file/d/1y6lutesOPZhC_CAfgnMBJ1vVqvl23Msq/view?usp=sharing).
 
 ## Language and Tools:
+<img src="https://skillicons.dev/icons?i=github,js,c,python"/>
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+## Talk to me.
+[<img src="https://skillicons.dev/icons?i=gmail"/>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielbelo2007@gmail.com)
+[<img src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/whoisgaabss)
 
-![gabrielbelo2007's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbelo2007&show_icons=true&theme=transparent)
+
+
