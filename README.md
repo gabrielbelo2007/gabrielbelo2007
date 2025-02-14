@@ -1,6 +1,6 @@
 ## ✌ Hello, I'm Gabriel Belo!
 
-- :computer: I'm 17-year-old novice developer focus on back-end and based in Recife, Brazil.
+- :computer: I'm 17-year-old novice developer currently focus on front-end and based in Recife, Brazil.
 - :technologist: Computer Science student at [UFRPE](https://ufrpe.br/).
 - :books:**Currently**: Studying Python at [MOOC](https://programming-24.mooc.fi/), Logic programming and JavaScript.
 - :outbox_tray:**Upcoming courses**: CS50.
