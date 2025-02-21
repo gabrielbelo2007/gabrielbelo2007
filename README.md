@@ -1,9 +1,9 @@
 ## ✌ Hello, I'm Gabriel Belo!
 
 - :computer: Front-end Developer.
-- 🌎: Based in Recife, Brazil.
+- 🌎 Based in Recife, Brazil.
 - :technologist: Computer Science student at [UFRPE](https://ufrpe.br/) [01/09].
-- :books:**Practicing**: *JavaScript/TypeScript* and *Python*.
+- :books: **Practicing**: *JavaScript/TypeScript* and *Python*.
   
 ## Language and Tools:
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css"/>
