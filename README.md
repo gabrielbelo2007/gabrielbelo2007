@@ -6,7 +6,7 @@
 - :books: **Practicing**: *JavaScript/TypeScript* and *Python*.
   
 ## 🧰 Language and Tools:
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css"/>
 
 ## 📧 Talk to me.
 [<img src="https://skillicons.dev/icons?i=gmail"/>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielbelo.dev@gmail.com)
