@@ -15,5 +15,5 @@
 ## 📊 GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbelo2007&show_icons=true&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielbelo2007&theme=soft-green&hide_border=true&card_width=100)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielbelo2007&layout=compact&icons=true&theme=shadow_green&hide_border=true&title_color=A7F5AA&text_color=A7F5AA&bg_color=222428)
 
