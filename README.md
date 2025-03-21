@@ -1,4 +1,4 @@
-## ✌ Hello, I'm Gabriel Belo!
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+I'm+Gabriel+Belo!)](https://git.io/typing-svg)
 
 - :computer: Front-end Developer.
 - 🌎 Based in Recife, Brazil.
