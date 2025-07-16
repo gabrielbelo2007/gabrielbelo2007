@@ -3,10 +3,10 @@
 - :computer: Back-end Developer.
 - 🌎 Based in Recife, Brazil.
 - :technologist: Computer Science student at [UFRPE](https://ufrpe.br/) [01/09].
-- :books: **Practicing**: *Java*, *JavaScript/TypeScript* and *Python*.
+- :battery: **Stack**: *Python, *JavaScript*, *C* and *Java*.
   
 ## 🧰 Language and Tools:
-<img src="https://skillicons.dev/icons?i=java,js,c,python,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css"/>
 
 ## 📧 Talk to me.
 [<img src="https://skillicons.dev/icons?i=gmail"/>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielbelo.dev@gmail.com)
