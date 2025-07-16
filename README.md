@@ -15,7 +15,7 @@
 ## 📊 GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbelo2007&show_icons=true&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielbelo2007&layout=compact&icons=true&theme=shadow_green&hide_border=true&title_color=A7F5AA&text_color=A7F5AA&bg_color=222428)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbelo2007&layout=compact&theme=shadow_green&hide_border=true&bg_color=222428&text_color=A7F5AA)](https://github.com/gabrielbelo2007/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
