@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+I'm+Gabriel+Belo!)](https://git.io/typing-svg)
 
-- :computer: Back-end Developer.
+- :computer: Back-end Developer Partner | FACEPE Partner.
 - 🌎 Based in Recife, Brazil.
 - :technologist: Computer Science student at [UFRPE](https://ufrpe.br/) [01/09].
 - :battery: **Stack**: *Python*, *JavaScript*, *C* and *Java*.
