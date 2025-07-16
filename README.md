@@ -3,7 +3,7 @@
 - :computer: Back-end Developer.
 - 🌎 Based in Recife, Brazil.
 - :technologist: Computer Science student at [UFRPE](https://ufrpe.br/) [01/09].
-- :battery: **Stack**: *Python, *JavaScript*, *C* and *Java*.
+- :battery: **Stack**: *Python*, *JavaScript*, *C* and *Java*.
   
 ## 🧰 Language and Tools:
 <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css"/>
