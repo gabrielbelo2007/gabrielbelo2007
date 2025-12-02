@@ -6,7 +6,7 @@
 - :battery: **Stack**: *Python*, *JavaScript*, *C* and *Java*.
   
 ## 🧰 Language and Tools:
-<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,js,c"/>
 
 ## 📧 Talk to me.
 [<img src="https://skillicons.dev/icons?i=gmail"/>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielbelo.dev@gmail.com)
