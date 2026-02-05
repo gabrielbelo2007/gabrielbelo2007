@@ -2,7 +2,7 @@
 
 - :computer: Developer.
 - 🌎 Based in Recife, Brazil.
-- :technologist: Bachelor's Degree in AI at [UFPE](https://www.ufpe.br/pt) [01/09].
+- :technologist: Bachelor's Degree in AI at [UFPE](https://www.ufpe.br/pt) [02/09].
   
 ## 🧰 Language and Tools:
 <img src="https://skillicons.dev/icons?i=python,js,c"/>
