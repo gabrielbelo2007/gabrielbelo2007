@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+I'm+Gabriel+Belo!)](https://git.io/typing-svg)
 
-- :computer: Developer.
+- :computer: Interesting in ML Enginneer & CyberSecurity.
 - 🌎 Based in Recife, Brazil.
 - :technologist: Bachelor's Degree in AI at [UFPE](https://www.ufpe.br/pt) [02/09].
   
