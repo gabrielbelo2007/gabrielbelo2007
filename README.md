@@ -3,6 +3,7 @@
 - :computer: Interesting in ML Engineer & CyberSecurity.
 - 🌎 Based in Recife, Brazil.
 - :technologist: Bachelor's Degree in AI at [UFPE](https://www.ufpe.br/pt) [02/09].
+- 🦢 iOS Developer Student at Apple Developer Academy UFPE.
   
 ## 🧰 Language and Tools:
 <img src="https://skillicons.dev/icons?i=python,js,c"/>
