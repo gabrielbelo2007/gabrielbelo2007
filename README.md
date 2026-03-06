@@ -6,7 +6,7 @@
 - 🦢 iOS Developer Student at Apple Developer Academy UFPE.
   
 ## 🧰 Language and Tools:
-<img src="https://skillicons.dev/icons?i=swift,python,js,c"/>
+<img src="https://skillicons.dev/icons?i=swift,python,js,c,cpp"/>
 
 ## 📧 Talk to me.
 [<img src="https://skillicons.dev/icons?i=gmail"/>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielbelo.dev@gmail.com)
