@@ -1,9 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+I'm+Gabriel+Belo!)](https://git.io/typing-svg)
 
-- :computer: Interesting in ML Engineer & CyberSecurity.
+- :computer: Interesting in AI Security | MLOps.
 - 🌎 Based in Recife, Brazil.
 - :technologist: Bachelor's Degree in AI at [CIn-UFPE](https://portal.cin.ufpe.br
-) [02/09].
+) [03/09].
 - 🦢 iOS Developer Student at [Apple Developer Academy UFPE](https://www.developeracademy.cin.ufpe.br/).
   
 ## 🧰 Language and Tools:
